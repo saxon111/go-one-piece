@@ -64,3 +64,5 @@ common/autoinstallers/*/.npmrc
 
 # Heft
 .heft
+
+*.js.map

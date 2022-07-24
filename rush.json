@@ -394,6 +394,10 @@
     {
       "packageName": "shop-fe",
       "projectFolder": "apps/shop-fe"
+    },
+    {
+      "packageName": "shop-server",
+      "projectFolder": "apps/shop-server"
     }
   ]
 }
